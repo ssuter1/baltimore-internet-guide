@@ -1,13 +1,22 @@
-# Baltimore City Residential Internet Guide
+# 🌐 Baltimore City Residential Internet Guide
 
 A community-maintained, plain-English guide to residential internet providers and broadband technologies available in Baltimore City.
 
+📅 **Last updated:** September 2026
+
 > Internet service availability in Baltimore City can vary significantly by neighborhood, street, building, and even individual address. Always check your exact address with the provider before making a decision. Speeds, plans, and service areas can change as providers upgrade and expand their networks.
 
-## Verizon Fios
+## 🧭 Jump to a provider
 
-Technology: Fiber-to-the-Home (FTTH)  
-Connection: Fiber optic  
+[🟣 Verizon Fios](#verizon-fios) · [🟠 Verizon DSL](#verizon-dsl) · [🔵 Xfinity](#xfinity) · [🟣 Greenlight Networks](#greenlight-networks) · [🟢 Port Networks](#port-networks) · [🟢 T-Mobile Home Internet](#t-mobile-home-internet) · [🟢 Verizon 5G Home](#verizon-5g-home-internet) · [🟡 Project Waves](#project-waves) · [🔷 Starlink](#starlink)
+
+---
+
+<a id="verizon-fios"></a>
+## 🟣 Verizon Fios
+
+![Technology](https://img.shields.io/badge/Technology-FTTH-7B2CBF) ![Connection](https://img.shields.io/badge/Connection-Fiber_Optic-7B2CBF) ![Speed](https://img.shields.io/badge/Speed-Up_to_5_Gig-198754)
+
 Speeds: Typically 300/300 Mbps, 500/500 Mbps, or approximately gigabit service (up to 940 Mbps download / 880 Mbps upload). Verizon also offers 2 Gig and 5 Gig Fios service in some areas.
 
 Verizon Fios is a fiber-optic internet service. Unlike cable internet, which typically uses coaxial cable for the final connection to your home, or DSL, which uses traditional copper telephone wiring, Fios runs fiber-optic cable directly to the property.
@@ -22,11 +31,10 @@ Fios availability within Baltimore City has historically been much more limited 
 
 There are signs that Verizon is again expanding its fiber network within the city. As of 2026, residents have reported new Fios construction and availability in areas including Remington and Fells Point. Because this deployment is ongoing and highly address-specific, the best way to determine availability is to check your exact address with Verizon.
 
-## Verizon DSL
+<a id="verizon-dsl"></a>
+## 🟠 Verizon DSL
 
-Technology: DSL (Digital Subscriber Line)  
-Connection: Traditional copper telephone lines  
-Status: Legacy service being phased out
+![Technology](https://img.shields.io/badge/Technology-DSL-D97706) ![Connection](https://img.shields.io/badge/Connection-Copper-D97706) ![Status](https://img.shields.io/badge/Status-Legacy_%2F_Being_Phased_Out-B91C1C)
 
 Verizon DSL is one of the older forms of broadband internet still found in parts of Baltimore. DSL uses the same copper telephone wiring originally installed for traditional landline telephone service to carry an internet connection.
 
@@ -48,10 +56,11 @@ As of 2026, Verizon has filed applications to retire legacy copper infrastructur
 
 For someone ordering new internet service today, DSL should generally be viewed as a legacy option rather than a modern alternative to cable or fiber.
 
-## Xfinity
+<a id="xfinity"></a>
+## 🔵 Xfinity
 
-Technology: DOCSIS 3.1 cable internet  
-Connection: Coaxial cable / Hybrid Fiber-Coaxial (HFC)  
+![Technology](https://img.shields.io/badge/Technology-DOCSIS_3.1-2563EB) ![Connection](https://img.shields.io/badge/Connection-HFC_%2F_Coax-2563EB) ![Speed](https://img.shields.io/badge/Speed-Up_to_2.1_Gbps-198754)
+
 Speeds: Currently up to approximately 2.1 Gbps download / 300 Mbps upload at eligible Baltimore addresses
 
 Xfinity is one of the most widely available wired internet providers in Baltimore City. Its residential internet service is primarily delivered using DOCSIS, a technology that allows high-speed internet service to operate over the same type of coaxial cable traditionally used for cable television.
@@ -68,10 +77,11 @@ Comcast has begun deploying the next generation of cable technology, DOCSIS 4.0,
 
 Comcast markets its DOCSIS 4.0 symmetrical service as X-Class. As of 2026, DOCSIS 4.0 is still being rolled out and should not be assumed to be available throughout Baltimore City.
 
-## Greenlight Networks
+<a id="greenlight-networks"></a>
+## 🟣 Greenlight Networks
 
-Technology: Fiber-to-the-Home (FTTH)  
-Connection: Fiber optic  
+![Technology](https://img.shields.io/badge/Technology-FTTH-7B2CBF) ![Connection](https://img.shields.io/badge/Connection-Fiber_Optic-7B2CBF) ![Speed](https://img.shields.io/badge/Speed-Up_to_8_Gbps-198754)
+
 Speeds: 500 Mbps, 1 Gbps, 2 Gbps, and 8 Gbps, with symmetrical upload and download speeds
 
 Greenlight Networks is a newer internet provider in Baltimore City that is building its own fiber-to-the-home network. Like Verizon Fios, Greenlight runs fiber-optic cable directly to the property rather than using coaxial cable or traditional copper telephone lines for the final connection.
@@ -94,9 +104,11 @@ As of 2026, reported rollout status includes:
 
 Greenlight says additional Baltimore neighborhoods will be added as the network expands. Because the rollout is ongoing, residents should check their exact address rather than assume that service is available throughout one of the listed neighborhoods.
 
-## Port Networks
+<a id="port-networks"></a>
+## 🟢 Port Networks
 
-Technology: Fixed wireless (WiMax/LTU), with fiber or Ethernet service in some apartment and condominium buildings  
+![Technology](https://img.shields.io/badge/Technology-Fixed_Wireless-198754) ![Wireless](https://img.shields.io/badge/Wireless-WiMax_%2F_LTU-198754) ![MDUs](https://img.shields.io/badge/MDUs-Fiber_%2F_Ethernet-7B2CBF)
+
 Connection: Outdoor wireless radio for most single-family homes; fiber or Ethernet in some multi-unit buildings
 
 Port Networks is a locally based Baltimore internet provider that has served the area for many years. Unlike Xfinity or Verizon, Port does not rely on the traditional cable or telephone network to reach most single-family homes. Instead, it primarily uses fixed wireless technology.
@@ -117,10 +129,11 @@ Port does not use fixed wireless for every customer. In many apartment and condo
 
 Port can be an interesting alternative for Baltimore residents who have limited wired broadband choices, particularly at addresses where Xfinity may otherwise be the only high-speed wired provider.
 
-## T-Mobile Home Internet
+<a id="t-mobile-home-internet"></a>
+## 🟢 T-Mobile Home Internet
 
-Technology: 5G Fixed Wireless Access (FWA)  
-Connection: T-Mobile 5G/LTE cellular network  
+![Technology](https://img.shields.io/badge/Technology-5G_FWA-198754) ![Connection](https://img.shields.io/badge/Connection-5G_%2F_LTE-198754) ![Typical Download](https://img.shields.io/badge/Typical_Download-133--498_Mbps-2563EB)
+
 Typical speeds: Approximately 133–498 Mbps download and 12–55 Mbps upload, depending on plan and network conditions
 
 T-Mobile Home Internet is a fixed wireless internet service that uses T-Mobile's cellular network instead of a physical cable or fiber connection to the home. The same general 5G network used by T-Mobile phones provides the internet connection, although Home Internet uses a dedicated gateway designed to remain in the home.
@@ -143,10 +156,11 @@ T-Mobile limits availability based partly on the amount of network capacity avai
 
 Because it does not require cable, telephone, or fiber infrastructure to be installed at the property, T-Mobile Home Internet can provide an alternative at Baltimore addresses with limited wired internet choices. However, performance can be more variable than a wired fiber or cable connection because the service depends on cellular signal quality and available network capacity.
 
-## Verizon 5G Home Internet
+<a id="verizon-5g-home-internet"></a>
+## 🟢 Verizon 5G Home Internet
 
-Technology: 5G Fixed Wireless Access (FWA)  
-Connection: Verizon 5G Ultra Wideband cellular network  
+![Technology](https://img.shields.io/badge/Technology-5G_FWA-198754) ![Spectrum](https://img.shields.io/badge/Spectrum-C--band_%2F_mmWave-198754) ![Speed](https://img.shields.io/badge/Speed-Up_to_1_Gbps-2563EB)
+
 Speeds: Up to 1 Gbps download in areas served by Verizon's high-band/mmWave network; speeds vary considerably by location and type of 5G coverage
 
 Verizon 5G Home Internet is a fixed wireless service that provides home internet using Verizon's cellular network rather than a cable or fiber connection to the property.
@@ -171,11 +185,10 @@ Like T-Mobile Home Internet, Verizon 5G Home does not require traditional cable,
 
 Performance and availability are highly address-specific, so residents should check their exact address with Verizon rather than relying solely on the cellular coverage shown for their neighborhood.
 
-## Project Waves
+<a id="project-waves"></a>
+## 🟡 Project Waves
 
-Technology: Fixed wireless and fiber  
-Connection: Wireless radio and fiber optic  
-Type: Baltimore-based nonprofit community internet provider
+![Type](https://img.shields.io/badge/Type-Nonprofit_Community_ISP-EAB308) ![Technology](https://img.shields.io/badge/Technology-Wireless_%2B_Fiber-EAB308) ![Location](https://img.shields.io/badge/Location-Baltimore_City-2563EB)
 
 Project Waves is a Baltimore-based nonprofit internet service provider focused on providing affordable broadband access to communities that have historically had limited or unaffordable internet options.
 
@@ -193,10 +206,11 @@ Eligibility and availability therefore depend on the resident's location and the
 
 Because Project Waves is a nonprofit with a specific digital-equity mission, it should be considered separately from commercial providers such as Xfinity, Verizon, Greenlight, and T-Mobile.
 
-## Starlink
+<a id="starlink"></a>
+## 🔷 Starlink
 
-Technology: Low-Earth Orbit (LEO) satellite internet  
-Connection: Satellite radio  
+![Technology](https://img.shields.io/badge/Technology-LEO_Satellite-0284C7) ![Connection](https://img.shields.io/badge/Connection-Satellite_Radio-0284C7) ![Availability](https://img.shields.io/badge/Availability-Address_%26_Sky_View_Dependent-64748B)
+
 Speeds: Variable depending on network conditions, location, and service plan
 
 Starlink is a satellite internet service operated by SpaceX. Unlike every other provider discussed in this guide, Starlink does not require a nearby cable, fiber line, telephone line, or cellular tower. Instead, a small satellite dish installed at the customer's property communicates directly with satellites orbiting above the Earth.
@@ -219,7 +233,9 @@ That advantage is less significant in a densely populated city like Baltimore, w
 
 For most Baltimore residents with access to a good cable or fiber connection, Starlink is unlikely to be necessary. However, it provides another option for unusual locations, properties with limited wired service, temporary installations, or residents who specifically want an internet connection that does not depend on the local cable, telephone, or fiber network.
 
-## Useful FCC Resources
+---
+
+## 🏛️ Useful FCC Resources
 
 ### Check What Internet Service Is Available at Your Address
 
@@ -237,12 +253,14 @@ The FCC also accepts consumer complaints involving internet providers, including
 
 If your issue is specifically that the FCC Broadband Map incorrectly shows service as available at your address, use the Availability Challenge option on the Broadband Map rather than a general consumer complaint.
 
-## Contributing
+---
+
+## 🤝 Contributing
 
 This guide is intended to be community maintained. If you notice outdated information, a provider expanding into a new Baltimore neighborhood, a changed speed tier, or another correction, please [open an issue](../../issues) or submit a pull request.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
-## License
+## 📄 License
 
 This guide is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).
